@@ -16,6 +16,7 @@
 ## Projetos em destaque
 
 - cadastro-usuarios
+- controle-estoque-c
 
 ## Contato
 
