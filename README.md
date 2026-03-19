@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, meu nome é Francisco
 
-<!--
-**bentonetofr/bentonetofr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Focado em desenvolvimento web.
+- Em busca de estágio na área de tecnologia
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* C
+* C#
+* Javascript
+* Git e GitHub
+
+## Projetos em destaque
+
+- Em construção...
+
+## Contato
+
+* LinkedIn: www.linkedin.com/in/francisco-bento-neto-2b1551222
+* Email: bentonetofr@gmail.com
