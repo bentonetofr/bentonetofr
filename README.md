@@ -8,8 +8,6 @@
 
 * HTML
 * CSS
-* C
-* C#
 * Javascript
 * Git e GitHub
 
